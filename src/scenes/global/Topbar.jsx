@@ -51,9 +51,7 @@ const Topbar = () => {
         </IconButton>
 
         {/* Settings */}
-        <IconButton>
-           
-        </IconButton>
+        <IconButton></IconButton>
 
         {/* Profile */}
         <IconButton>
