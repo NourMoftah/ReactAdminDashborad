@@ -1,6 +1,6 @@
 import { ColorModeContext, useMode } from "./theme";
 import { CssBaseline, ThemeProvider } from "@mui/material"; 
-import Topbar from "./scenes/global/Topbar";
+import Topbar from "./scenes/global/topbar"; //change t to cap
 import Sidebar from "./scenes/global/Sidebar";
 import Dashboard from "./scenes/dashboard";
 // import Team from "./scenes/Team";
