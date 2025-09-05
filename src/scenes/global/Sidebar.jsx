@@ -18,7 +18,7 @@ import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import MapOutlinedIcon from "@mui/icons-material/MapOutlined";
 import HomeOutlinedIcon from "@mui/icons-material/HomeOutlined";
 import avatar from "../../assets/memoji-avatar-5.png"; 
-// import styles from "../../components/syles/Box.module.css";
+
 
 
 const Item = ({ title, to, icon, selected, setSelected }) => {
