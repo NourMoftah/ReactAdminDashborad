@@ -145,7 +145,7 @@ export const themeSettings = (mode) => {
               main: colors.gray[500],
               light: colors.gray[100],
             },
-            background: { default: "#f5f5f5"}, 
+            background: { default: "#858585"}, 
           }),
     },
     typography: {
